@@ -3,6 +3,7 @@ package com.poof;
 import java.util.Scanner;
 
 public class ZadanieOne {
+
     public static final int BORDER = 13;
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
