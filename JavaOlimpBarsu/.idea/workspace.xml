@@ -38,9 +38,10 @@
       <file leaf-file-name="ZadanieTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/poof/ZadanieTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            <state relative-caret-position="211">
+              <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#1088#1089#0" expanded="true" />
                 <element signature="e#1157#1158#0" expanded="true" />
               </folding>
@@ -322,7 +323,7 @@
       <workItem from="1510859510175" duration="1611000" />
       <workItem from="1510864682285" duration="31000" />
       <workItem from="1510864877667" duration="906000" />
-      <workItem from="1510907491946" duration="10016000" />
+      <workItem from="1510907491946" duration="10109000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1510865189752</created>
@@ -387,11 +388,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510943204792</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="finish class ZadanieTree">
+      <created>1510946633118</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1510946633118</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12565000" />
+    <option name="totallyTimeSpent" value="12658000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="616" extended-state="6" />
@@ -468,7 +476,8 @@
     <MESSAGE value="edit designed class ZadanieTwo" />
     <MESSAGE value="add class ZadanieTree" />
     <MESSAGE value="add file zadanie3.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file zadanie3.txt" />
+    <MESSAGE value="finish class ZadanieTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish class ZadanieTree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -517,9 +526,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/poof/ZadanieTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        <state relative-caret-position="211">
+          <caret line="48" column="48" lean-forward="false" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="e#1088#1089#0" expanded="true" />
             <element signature="e#1157#1158#0" expanded="true" />
           </folding>

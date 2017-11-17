@@ -46,7 +46,7 @@ public class ZadanieTree {
             System.out.print("Введите необходимый пункт назначения : ");
             answer = userAnswers.next();
             System.out.print("Найденые рейсы:\n" + searchFlight(answer));
-        }else {
+        }else if (answer.toUpperCase().equals(NO)){
             System.out.println("Досвидания!");
         }
     }
