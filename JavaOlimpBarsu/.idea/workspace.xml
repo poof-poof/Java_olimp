@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="074c63ba-1f87-46a6-b6da-89d2fa4dd4dd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/poof/ZadanieTree.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ZadanieTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ZadanieTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/poof/ZadanieTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
               <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zadanie3.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zadanie3.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -296,7 +305,7 @@
       <workItem from="1510859510175" duration="1611000" />
       <workItem from="1510864682285" duration="31000" />
       <workItem from="1510864877667" duration="906000" />
-      <workItem from="1510907491946" duration="5956000" />
+      <workItem from="1510907491946" duration="6596000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1510865189752</created>
@@ -347,11 +356,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510936999117</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add class ZadanieTree">
+      <created>1510942146708</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1510942146708</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8505000" />
+    <option name="totallyTimeSpent" value="9145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="616" extended-state="6" />
@@ -426,7 +442,8 @@
     <MESSAGE value="finish class ZadanieTwo" />
     <MESSAGE value="edit designed class ZadanieOne" />
     <MESSAGE value="edit designed class ZadanieTwo" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit designed class ZadanieTwo" />
+    <MESSAGE value="add class ZadanieTree" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class ZadanieTree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -461,6 +478,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="24" lean-forward="false" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
