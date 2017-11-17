@@ -13,6 +13,7 @@ public class ZadanieFour {
         Scanner sc = new Scanner(System.in);
         int groups;
         int countRows = 0;
+        int availableSeats = COUNT_PLACES;
         Vector<Integer> countPeople = new Vector<>();
         do {
             System.out.print("Введите количество групп (1 <= n <= 100) : ");
@@ -28,8 +29,18 @@ public class ZadanieFour {
                 return o1 - o2;
             }
         });
+        int iter = 0;
         do {
-
+            if (availableSeats == 0 || availableSeats < countPeople.get(0)){
+                countRows++;
+                availableSeats = COUNT_PLACES;
+                continue;
+            }else if(availableSeats >= countPeople.get(0)){
+                availableSeats -= countPeople.get(0);
+                countPeople.remove(0);
+                iter++;
+                continue;
+            }
         }while (!countPeople.isEmpty());
         System.out.println("Минимальное число рядов из 6-ти кресел : " + countRows);
     }

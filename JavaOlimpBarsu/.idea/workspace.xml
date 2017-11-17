@@ -18,12 +18,12 @@
       <file leaf-file-name="ZadanieFour.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/poof/ZadanieFour.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+            <state relative-caret-position="199">
+              <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#884#885#0" expanded="true" />
-                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -325,7 +325,7 @@
       <workItem from="1510859510175" duration="1611000" />
       <workItem from="1510864682285" duration="31000" />
       <workItem from="1510864877667" duration="906000" />
-      <workItem from="1510907491946" duration="12297000" />
+      <workItem from="1510907491946" duration="14137000" />
     </task>
     <task id="LOCAL-00001" summary="done">
       <created>1510865189752</created>
@@ -432,11 +432,18 @@
       <option name="project" value="LOCAL" />
       <updated>1510947322807</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="обёртка для кдасса готова. осталось написать подсчет.">
+      <created>1510948925426</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1510948925426</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14846000" />
+    <option name="totallyTimeSpent" value="16686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="616" extended-state="6" />
@@ -519,10 +526,13 @@
     <MESSAGE value="zad" />
     <MESSAGE value="ds" />
     <MESSAGE value="add class ZadanieFour" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class ZadanieFour" />
+    <MESSAGE value="обёртка для кдасса готова. осталось написать подсчет." />
+    <option name="LAST_COMMIT_MESSAGE" value="обёртка для кдасса готова. осталось написать подсчет." />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -580,12 +590,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/poof/ZadanieFour.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="31" column="12" lean-forward="true" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+        <state relative-caret-position="199">
+          <caret line="37" column="38" lean-forward="false" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#884#885#0" expanded="true" />
-            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
           </folding>
         </state>
       </provider>
