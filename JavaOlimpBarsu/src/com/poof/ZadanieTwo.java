@@ -89,5 +89,4 @@ public class ZadanieTwo {
             }else continue;
         }while (true);
     }
-
 }
